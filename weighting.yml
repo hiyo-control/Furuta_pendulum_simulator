@@ -1,0 +1,7 @@
+state:
+ arm_angle: 10
+ pendulum_angle: 1
+ arm_angle_velocity: 30
+ pendulum_angle_velocity: 1
+
+input: 5

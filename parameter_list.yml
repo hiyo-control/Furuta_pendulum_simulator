@@ -1,0 +1,17 @@
+arm:
+ mass: 0.06
+ distance: 0.1
+ viscosity: 1.671e-3
+ inertia_moment: 1.89235e-4
+
+pendulum:
+ mass: 0.007
+ distance: 0.075
+ viscosity: 1.671e-4
+ length: 0.15
+
+motor:
+ bmf_const: 4.48e-2
+ torque_const: 4.48e-2
+ resistance: 15
+ reduction_ratio: 1

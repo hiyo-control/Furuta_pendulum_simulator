@@ -1,0 +1,4 @@
+arm_angle: 0
+pendulum_angle: 20
+arm_angle_velocity: 0
+pendulum_angle_velocity: 0
